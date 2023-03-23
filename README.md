@@ -12,7 +12,8 @@
            href="https://github.com/DefectDojo/django-DefectDojo"><img
              src="https://img.shields.io/github/release/DefectDojo/django-DefectDojo.svg" alt="GitHub release"></a> <a
            href="https://www.youtube.com/channel/UCWw9qzqptiIvTqSqhOFuCuQ"><img
-             src="https://img.shields.io/badge/youtube-subscribe-%23c4302b.svg" alt="YouTube Subscribe"></a> <img
+             src="https://img.shields.io/badge/youtube-subscribe-%23c4302b.svg" alt="YouTube Subscribe"></a> <a href="https://app.fossa.com/projects/git%2Bgithub.com%2Fmaxmckone7%2Fdjango-DefectDojo?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmaxmckone7%2Fdjango-DefectDojo.svg?type=shield"/></a>
+<img
            src="https://img.shields.io/twitter/follow/defectdojo.svg?style=social&amp;label=Follow" alt="Twitter Follow">
        </p>
        <p><a href="https://github.com/DefectDojo/django-DefectDojo/actions"><img
@@ -121,3 +122,6 @@ Please report Security issues via our [disclosure policy](readme-docs/SECURITY.m
 ## License
 
 DefectDojo is licensed under the [BSD-3-Clause License](LICENSE.md)
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmaxmckone7%2Fdjango-DefectDojo.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmaxmckone7%2Fdjango-DefectDojo?ref=badge_large)
